@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Parcial1</string>
+    <string name="wellcomeMenssage">Bienvenido a Parcial 1</string>
+    <string name="start">Avanzar</string>
+    <string name="back">Volver</string>
+    <string name="inputMenssage">Ingrese su nombre</string>
+    <string name="singature">Alumno: Tomás López Ríos | DNI: 31469901</string>
+</resources>
